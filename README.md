@@ -38,8 +38,8 @@ A cheap, easy-to-build Raspberry Pi Handheld Cyberdeck
 | M2.5x8mm Socket Head Bolt | 4 | $6 per pack of 50| [Amazon](https://amzn.to/4pdl6Kn) |  |
 | M3 Threaded Inserts | 6 | $7 per pack of 100 | [Amazon](https://amzn.to/4nOlhul) |  |
 | 2" Kapton Tape | 1 ft | $12 per 100ft roll | [Amazon](https://amzn.to/4qZJdhe) | I prefer Kapton tape, although you could use another type of double-sided tape |
-| bumble-berry-pi-enclosure-A-v3.STL | 1 |  | [Github](https://github.com/samcervantes/bumble-berry-pi/blob/main/bumble-berry-pi-enclosure-A-v3.STL) | Download from this repo an print on a 3D printer using [PLA](https://amzn.to/3X469hD) |
-| bumble-berry-pi-enclosure-B-v3.STL | 1 |  | [Github](https://github.com/samcervantes/bumble-berry-pi/blob/main/bumble-berry-pi-enclosure-B-v3.STL) | Download from this repo an print on a 3D printer using PLA |
+| bumble-berry-pi-enclosure-A-v3.STL | 1 |  | [Github](https://github.com/samcervantes/bumble-berry-pi/blob/main/bumble-berry-pi-enclosure-A-v3.STL) | Download from this repo an print on a 3D printer using [PETG (https://amzn.to/3X469hD) |
+| bumble-berry-pi-enclosure-B-v3.STL | 1 |  | [Github](https://github.com/samcervantes/bumble-berry-pi/blob/main/bumble-berry-pi-enclosure-B-v3.STL) | Download from this repo an print on a 3D printer using Petg |
 
 
 # Tools Required
@@ -53,7 +53,7 @@ A cheap, easy-to-build Raspberry Pi Handheld Cyberdeck
 2. [Youtube Video - How To Assemble the Bumble Berry Pi](https://www.youtube.com/watch?v=gBCb1FS4pzc)
 
 # Assembly Instructions - Detailed
-1. 3D print the two enclosure parts in PLA
+1. 3D print the two enclosure parts in PETG
 2. Insert the 6 threaded inserts using a soldering iron (I always love this part). If you haven't done this before, here is a short youtube video showing how: [Youtube Video - How To Install Threaded Inserts](https://www.youtube.com/shorts/iar6NPHNPfY)
 3. Attach the raspberry pi to the screen using 4 phillips screws
 4. Plug the ribbon cable into the rapsberry pi & display
